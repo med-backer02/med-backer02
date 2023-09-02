@@ -9,7 +9,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Backend developer:
 
     def __init__(self):
         self.name = "Bekseitov Medet"
