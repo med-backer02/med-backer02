@@ -12,7 +12,7 @@
 class Backend developer:
 
     def __init__(self):
-        self.name = "Bekseitov Medet"
+        self.name = "Medet"
         self.role = "Backend developer"
         self.language_spoken = ["ru_RU", "en_US"]
 
